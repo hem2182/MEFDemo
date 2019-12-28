@@ -1,0 +1,7 @@
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\bin\Debug\MEFCleaningUpWithNestedContainerDemo.exe.config
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\bin\Debug\MEFCleaningUpWithNestedContainerDemo.exe
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\bin\Debug\MEFCleaningUpWithNestedContainerDemo.pdb
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\obj\Debug\MEFCleaningUpWithNestedContainerDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\obj\Debug\MEFCleaningUpWithNestedContainerDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\obj\Debug\MEFCleaningUpWithNestedContainerDemo.exe
+C:\Code\MEFDemo\MEFCleaningUpWithNestedContainerDemo\obj\Debug\MEFCleaningUpWithNestedContainerDemo.pdb

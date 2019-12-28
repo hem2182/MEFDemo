@@ -1,0 +1,7 @@
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\bin\Debug\MEFCustomProgrammingModelDemo.exe.config
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\bin\Debug\MEFCustomProgrammingModelDemo.exe
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\bin\Debug\MEFCustomProgrammingModelDemo.pdb
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\obj\Debug\MEFCustomProgrammingModelDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\obj\Debug\MEFCustomProgrammingModelDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\obj\Debug\MEFCustomProgrammingModelDemo.exe
+C:\Code\MEFDemo\MEFCustomProgrammingModelDemo\obj\Debug\MEFCustomProgrammingModelDemo.pdb

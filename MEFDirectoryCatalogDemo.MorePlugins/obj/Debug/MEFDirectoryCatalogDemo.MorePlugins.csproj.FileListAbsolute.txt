@@ -1,0 +1,9 @@
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\bin\Debug\MEFDirectoryCatalogDemo.MorePlugins.dll
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\bin\Debug\MEFDirectoryCatalogDemo.MorePlugins.pdb
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\bin\Debug\MEFDirectoryCatalogDemo.Contracts.dll
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\bin\Debug\MEFDirectoryCatalogDemo.Contracts.pdb
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\obj\Debug\MEFDirectoryCatalogDemo.MorePlugins.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\obj\Debug\MEFDirectoryCatalogDemo.MorePlugins.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\obj\Debug\MEFDirectoryCatalogDemo.MorePlugins.csproj.CopyComplete
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\obj\Debug\MEFDirectoryCatalogDemo.MorePlugins.dll
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.MorePlugins\obj\Debug\MEFDirectoryCatalogDemo.MorePlugins.pdb

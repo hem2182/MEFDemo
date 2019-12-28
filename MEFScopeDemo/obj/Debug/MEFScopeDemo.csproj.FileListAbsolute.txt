@@ -1,0 +1,6 @@
+C:\Code\MEFDemo\MEFScopeDemo\bin\Debug\MEFScopeDemo.exe.config
+C:\Code\MEFDemo\MEFScopeDemo\bin\Debug\MEFScopeDemo.exe
+C:\Code\MEFDemo\MEFScopeDemo\bin\Debug\MEFScopeDemo.pdb
+C:\Code\MEFDemo\MEFScopeDemo\obj\Debug\MEFScopeDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFScopeDemo\obj\Debug\MEFScopeDemo.exe
+C:\Code\MEFDemo\MEFScopeDemo\obj\Debug\MEFScopeDemo.pdb

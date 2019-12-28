@@ -1,0 +1,7 @@
+C:\Code\MEFDemo\MEFPartOwnershipDemo\bin\Debug\MEFPartOwnershipDemo.exe.config
+C:\Code\MEFDemo\MEFPartOwnershipDemo\bin\Debug\MEFPartOwnershipDemo.exe
+C:\Code\MEFDemo\MEFPartOwnershipDemo\bin\Debug\MEFPartOwnershipDemo.pdb
+C:\Code\MEFDemo\MEFPartOwnershipDemo\obj\Debug\MEFPartOwnershipDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFPartOwnershipDemo\obj\Debug\MEFPartOwnershipDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFPartOwnershipDemo\obj\Debug\MEFPartOwnershipDemo.exe
+C:\Code\MEFDemo\MEFPartOwnershipDemo\obj\Debug\MEFPartOwnershipDemo.pdb

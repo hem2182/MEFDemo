@@ -1,0 +1,5 @@
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.Contracts\bin\Debug\MEFDirectoryCatalogDemo.Contracts.dll
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.Contracts\bin\Debug\MEFDirectoryCatalogDemo.Contracts.pdb
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.Contracts\obj\Debug\MEFDirectoryCatalogDemo.Contracts.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.Contracts\obj\Debug\MEFDirectoryCatalogDemo.Contracts.dll
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo.Contracts\obj\Debug\MEFDirectoryCatalogDemo.Contracts.pdb

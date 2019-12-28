@@ -1,0 +1,7 @@
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\bin\Debug\MEFCleaningUpPartsDemo.exe.config
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\bin\Debug\MEFCleaningUpPartsDemo.exe
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\bin\Debug\MEFCleaningUpPartsDemo.pdb
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\obj\Debug\MEFCleaningUpPartsDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\obj\Debug\MEFCleaningUpPartsDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\obj\Debug\MEFCleaningUpPartsDemo.exe
+C:\Code\MEFDemo\MEFCleaningUpPartsDemo\obj\Debug\MEFCleaningUpPartsDemo.pdb

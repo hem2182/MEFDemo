@@ -1,0 +1,9 @@
+C:\Code\MEFDemo\MEFDiagnosticsDemo\bin\Debug\MEFDiagnosticsDemo.exe.config
+C:\Code\MEFDemo\MEFDiagnosticsDemo\bin\Debug\MEFDiagnosticsDemo.exe
+C:\Code\MEFDemo\MEFDiagnosticsDemo\bin\Debug\MEFDiagnosticsDemo.pdb
+C:\Code\MEFDemo\MEFDiagnosticsDemo\bin\Debug\Microsoft.ComponentModel.Composition.Diagnostics.dll
+C:\Code\MEFDemo\MEFDiagnosticsDemo\obj\Debug\MEFDiagnosticsDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFDiagnosticsDemo\obj\Debug\MEFDiagnosticsDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFDiagnosticsDemo\obj\Debug\MEFDiagnosticsDemo.csproj.CopyComplete
+C:\Code\MEFDemo\MEFDiagnosticsDemo\obj\Debug\MEFDiagnosticsDemo.exe
+C:\Code\MEFDemo\MEFDiagnosticsDemo\obj\Debug\MEFDiagnosticsDemo.pdb

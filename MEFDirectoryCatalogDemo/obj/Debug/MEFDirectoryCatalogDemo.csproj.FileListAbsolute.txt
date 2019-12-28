@@ -1,0 +1,13 @@
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\bin\Debug\MEFDirectoryCatalogDemo.exe.config
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\bin\Debug\MEFDirectoryCatalogDemo.exe
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\bin\Debug\MEFDirectoryCatalogDemo.pdb
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\bin\Debug\MEFDirectoryCatalogDemo.Contracts.dll
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\bin\Debug\MEFDirectoryCatalogDemo.Contracts.pdb
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.MenuSystem.resources
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.Properties.Resources.resources
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.csproj.GenerateResource.cache
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.csproj.CopyComplete
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.exe
+C:\Code\MEFDemo\MEFDirectoryCatalogDemo\obj\Debug\MEFDirectoryCatalogDemo.pdb

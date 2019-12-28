@@ -1,0 +1,7 @@
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\bin\Debug\MEFFilteredCatalogDemo.exe.config
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\bin\Debug\MEFFilteredCatalogDemo.exe
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\bin\Debug\MEFFilteredCatalogDemo.pdb
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\obj\Debug\MEFFilteredCatalogDemo.csprojAssemblyReference.cache
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\obj\Debug\MEFFilteredCatalogDemo.csproj.CoreCompileInputs.cache
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\obj\Debug\MEFFilteredCatalogDemo.exe
+C:\Code\MEFDemo\MEFFilteredCatalogDemo\obj\Debug\MEFFilteredCatalogDemo.pdb
